@@ -1,7 +1,7 @@
 # Active-Directory
 
 <h2>Description</h2>
-In this lab, I created a sample Active Directory and connected it to a client virtual machine.  I configured it to allow network access and assign IP addresses to users connected to the domain and I used a script to provision a large amount of user accounts from a text file.
+In this lab, I created a sample Active Directory and connected it to a client virtual machine.  I configured it to allow network access and assign IP addresses to users connected to the domain.  I also used a script to provision a large amount of user accounts from a text file.
 <br />
 
 
